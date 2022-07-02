@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class ColorChanger : MonoBehaviour
 {
+    /// <summary>
+    /// The MeshRenderer of this object
+    /// </summary>
     public MeshRenderer myRenderer;
 
     public float totalTime;
